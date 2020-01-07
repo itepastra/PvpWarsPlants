@@ -2,36 +2,12 @@ import datetime
 import shutil
 import time
 import os
+import data.py
 
 conststr = "Render thread/INFO"
 lenstr = len(conststr)
 
-cactus ={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-avocado = {"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-sewerfruit= {"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-netherfruit= {"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-bamboo={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-hamburger={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-seafruit={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-lemon={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-coconut={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-pear = {"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-eggplant={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-apple={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-beetroot={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-bubblegum={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-slimereed={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-blazereed={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-rubybush={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-cherry={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-taco={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-chocolate={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-enderbloom={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-goldenapple={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-pumpkinpie={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-football={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-turkeytrap={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
-iceball={"name":"", "size":(0,0,0), "wateramt":0, "watertime":0, "totaltime": 0,}
+
 # test
 
 
