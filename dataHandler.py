@@ -38,3 +38,5 @@ def filepath(
 with open(filepath('gegevens.txt'), "r") as file:
     data = file.readlines()
     for line in data:
+        splitLine = line.split(" ")
+        print(splitLine[4])
