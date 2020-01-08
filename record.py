@@ -42,7 +42,7 @@ harvests = []
 savelines = 0
 amt = 0
 
-if docopy == True:
+if docopy:
     shutil.copyfile(
         "D:/losse spellen/MultiMC/instances/Vanilla/.minecraft/logs/latest.log",
         extras.filepath("log.txt"),
@@ -79,7 +79,7 @@ with open(extras.filepath("log.txt"), "r") as file:
         elif line[23 + lenstr] == "+":
             temp, amt = pend(data, index)
             harvests.extend(temp)
-        elif line.partition("[CHAT] (SkyblockCompetitive)"[2]!=""):
+        elif line.partition("[CHAT] (SkyblockCompetitive)")[2]!="":
             harvests.extend([line, "\n"])
 
 
