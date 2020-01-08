@@ -1,201 +1,65 @@
-[10:58:32] [Render thread/INFO]: [CHAT]  + $690,000 (x42 Items)
-[10:58:32] [Render thread/INFO]: [CHAT]  + $62,038 (Harvester Pet)
-[10:58:33] [Render thread/INFO]: [CHAT] [!] Replanted Blazereed Seed for $250,000
-
-[11:06:04] [Render thread/INFO]: [CHAT]  + $324.644M (x3,855,012 Items)
-
-[11:06:15] [Render thread/INFO]: [CHAT]  + $1,030 (x110 Items)
-[11:06:15] [Render thread/INFO]: [CHAT]  + $93 (Harvester Pet)
-[11:06:15] [Render thread/INFO]: [CHAT] [!] Replanted Cactus Seed for $500
-
-[11:06:24] [Render thread/INFO]: [CHAT]  + $2,700 (x18 Items)
-[11:06:24] [Render thread/INFO]: [CHAT]  + $243 (Harvester Pet)
-[11:06:25] [Render thread/INFO]: [CHAT] [!] Replanted Avocado Seed for $625
-
-[11:07:38] [Render thread/INFO]: [CHAT]  + $355,000 (x71 Items)
-[11:07:38] [Render thread/INFO]: [CHAT]  + $31,919 (Harvester Pet)
-[11:07:38] [Render thread/INFO]: [CHAT] [!] Replanted Bubblegum Seed for $100,000
-
-[11:08:37] [Render thread/INFO]: [CHAT]  + $12,000 (x30 Items)
-[11:08:37] [Render thread/INFO]: [CHAT]  + $1,079 (Harvester Pet)
-[11:08:37] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:08:42] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:08:42] [Render thread/INFO]: [CHAT]  + $828 (Harvester Pet)
-[11:08:42] [Render thread/INFO]: [CHAT] (!) Your Harvester Pet has leveled up to [LVL 90].
-[11:08:43] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:08:48] [Render thread/INFO]: [CHAT]  + $10,400 (x26 Items)
-[11:08:48] [Render thread/INFO]: [CHAT]  + $946 (Harvester Pet)
-[11:08:48] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:09:08] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[11:09:08] [Render thread/INFO]: [CHAT]  + $691 (Harvester Pet)
-[11:09:08] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-[11:09:09] [Render thread/INFO]: [CHAT] [!] Double Trouble Bonus... "Collected additional $11,400!"
-
-[11:09:15] [Render thread/INFO]: [CHAT]  + $7,200 (x18 Items)
-[11:09:15] [Render thread/INFO]: [CHAT]  + $655 (Harvester Pet)
-[11:09:25] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:10:51] [Render thread/INFO]: [CHAT]  + $11,200 (x28 Items)
-[11:10:51] [Render thread/INFO]: [CHAT]  + $1,019 (Harvester Pet)
-[11:10:51] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:10:58] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:10:58] [Render thread/INFO]: [CHAT]  + $837 (Harvester Pet)
-[11:11:08] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:11:14] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:11:14] [Render thread/INFO]: [CHAT]  + $837 (Harvester Pet)
-[11:11:14] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:11:48] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:11:48] [Render thread/INFO]: [CHAT]  + $837 (Harvester Pet)
-[11:11:48] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-[11:11:50] [Render thread/INFO]: [CHAT] [!] Double Trouble Bonus... "Collected additional $13,800!"
-
-[11:11:52] [Render thread/INFO]: [CHAT]  + $11,200 (x28 Items)
-[11:11:52] [Render thread/INFO]: [CHAT]  + $1,019 (Harvester Pet)
-[11:11:53] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:11:58] [Render thread/INFO]: [CHAT]  + $10,000 (x25 Items)
-[11:11:58] [Render thread/INFO]: [CHAT]  + $910 (Harvester Pet)
-[11:11:58] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:12:04] [Render thread/INFO]: [CHAT]  + $10,800 (x27 Items)
-[11:12:04] [Render thread/INFO]: [CHAT]  + $982 (Harvester Pet)
-[11:12:04] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:12:11] [Render thread/INFO]: [CHAT]  + $11,200 (x28 Items)
-[11:12:11] [Render thread/INFO]: [CHAT]  + $1,019 (Harvester Pet)
-[11:12:11] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:12:14] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:12:14] [Render thread/INFO]: [CHAT]  + $837 (Harvester Pet)
-[11:12:15] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:18:51] [Render thread/INFO]: [CHAT]  + $89.011M (x1,067,859 Items)
-
-[11:20:11] [Render thread/INFO]: [CHAT]  + $8.696M (x109,072 Items)
-
-[11:21:15] [Render thread/INFO]: [CHAT]  + $11,600 (x29 Items)
-[11:21:15] [Render thread/INFO]: [CHAT]  + $1,055 (Harvester Pet)
-[11:21:15] [Render thread/INFO]: [CHAT] (!) Your Harvester Pet has leveled up to [LVL 91].
-[11:21:22] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:50:45] [Render thread/INFO]: [CHAT]  + $223.504M (x2,717,013 Items)
-
-[11:51:02] [Render thread/INFO]: [CHAT]  + $8,000 (x20 Items)
-[11:51:02] [Render thread/INFO]: [CHAT]  + $736 (Harvester Pet)
-[11:51:02] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:06] [Render thread/INFO]: [CHAT]  + $10,400 (x26 Items)
-[11:51:06] [Render thread/INFO]: [CHAT]  + $956 (Harvester Pet)
-[11:51:06] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:11] [Render thread/INFO]: [CHAT]  + $10,400 (x26 Items)
-[11:51:11] [Render thread/INFO]: [CHAT]  + $956 (Harvester Pet)
-[11:51:11] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:14] [Render thread/INFO]: [CHAT]  + $8,000 (x20 Items)
-[11:51:14] [Render thread/INFO]: [CHAT]  + $736 (Harvester Pet)
-[11:51:14] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:40] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:51:40] [Render thread/INFO]: [CHAT]  + $846 (Harvester Pet)
-[11:51:40] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:44] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[11:51:44] [Render thread/INFO]: [CHAT]  + $699 (Harvester Pet)
-[11:51:45] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-[11:51:46] [Render thread/INFO]: [CHAT] [!] Double Trouble Bonus... "Collected additional $11,400!"
-
-[11:51:48] [Render thread/INFO]: [CHAT]  + $11,600 (x29 Items)
-[11:51:48] [Render thread/INFO]: [CHAT]  + $1,067 (Harvester Pet)
-[11:51:49] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:52] [Render thread/INFO]: [CHAT]  + $8,400 (x21 Items)
-[11:51:52] [Render thread/INFO]: [CHAT]  + $773 (Harvester Pet)
-[11:51:53] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:51:57] [Render thread/INFO]: [CHAT]  + $10,400 (x26 Items)
-[11:51:57] [Render thread/INFO]: [CHAT]  + $956 (Harvester Pet)
-[11:51:57] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:00] [Render thread/INFO]: [CHAT]  + $10,000 (x25 Items)
-[11:52:00] [Render thread/INFO]: [CHAT]  + $920 (Harvester Pet)
-[11:52:01] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:07] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[11:52:07] [Render thread/INFO]: [CHAT]  + $699 (Harvester Pet)
-[11:52:07] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:11] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[11:52:11] [Render thread/INFO]: [CHAT]  + $699 (Harvester Pet)
-[11:52:11] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:16] [Render thread/INFO]: [CHAT]  + $11,600 (x29 Items)
-[11:52:16] [Render thread/INFO]: [CHAT]  + $1,067 (Harvester Pet)
-[11:52:16] [Render thread/INFO]: [CHAT] (!) Your Harvester Pet has leveled up to [LVL 92].
-[11:52:16] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:20] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:52:20] [Render thread/INFO]: [CHAT]  + $855 (Harvester Pet)
-[11:52:22] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:26] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[11:52:26] [Render thread/INFO]: [CHAT]  + $855 (Harvester Pet)
-[11:52:27] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:35] [Render thread/INFO]: [CHAT]  + $11,200 (x28 Items)
-[11:52:35] [Render thread/INFO]: [CHAT]  + $1,041 (Harvester Pet)
-[11:52:35] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:40] [Render thread/INFO]: [CHAT]  + $6,800 (x17 Items)
-[11:52:40] [Render thread/INFO]: [CHAT]  + $632 (Harvester Pet)
-[11:52:41] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[11:52:49] [Render thread/INFO]: [CHAT]  + $9,600 (x24 Items)
-[11:52:49] [Render thread/INFO]: [CHAT]  + $892 (Harvester Pet)
-[11:52:49] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-[11:52:49] [Render thread/INFO]: [CHAT] [!] Double Trouble Bonus... "Collected additional $14,400!"
-
-[11:55:52] [Render thread/INFO]: [CHAT]  + $131M (x30 Items)
-[11:55:52] [Render thread/INFO]: [CHAT]  + $12,170,830 (Harvester Pet)
-[11:55:53] [Render thread/INFO]: [CHAT] [!] Replanted Pumpkin Pie Seed for $75M
-
-[12:05:16] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[12:05:16] [Render thread/INFO]: [CHAT]  + $707 (Harvester Pet)
-[12:05:16] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:05:25] [Render thread/INFO]: [CHAT]  + $9,200 (x23 Items)
-[12:05:25] [Render thread/INFO]: [CHAT]  + $855 (Harvester Pet)
-[12:05:26] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:05:31] [Render thread/INFO]: [CHAT]  + $7,600 (x19 Items)
-[12:05:32] [Render thread/INFO]: [CHAT]  + $707 (Harvester Pet)
-[12:05:32] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-[12:05:32] [Render thread/INFO]: [CHAT] [!] Double Trouble Bonus... "Collected additional $11,400!"
-
-[12:05:35] [Render thread/INFO]: [CHAT]  + $6,800 (x17 Items)
-[12:05:35] [Render thread/INFO]: [CHAT]  + $632 (Harvester Pet)
-[12:05:36] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:05:40] [Render thread/INFO]: [CHAT]  + $10,800 (x27 Items)
-[12:05:40] [Render thread/INFO]: [CHAT]  + $1,004 (Harvester Pet)
-[12:05:40] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:05:47] [Render thread/INFO]: [CHAT]  + $9,600 (x24 Items)
-[12:05:47] [Render thread/INFO]: [CHAT]  + $892 (Harvester Pet)
-[12:05:47] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:06:01] [Render thread/INFO]: [CHAT]  + $8,800 (x22 Items)
-[12:06:01] [Render thread/INFO]: [CHAT]  + $818 (Harvester Pet)
-[12:06:01] [Render thread/INFO]: [CHAT] (!) Your Harvester Pet has leveled up to [LVL 93].
-[12:06:01] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
-
-[12:06:05] [Render thread/INFO]: [CHAT]  + $12,400 (x31 Items)
-[12:06:05] [Render thread/INFO]: [CHAT]  + $1,165 (Harvester Pet)
-[12:06:06] [Render thread/INFO]: [CHAT] [!] Replanted Bamboo Seed for $2,500
+[18:58:06] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Muiz_ » me) yes for 500B
+[19:08:41] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Str1XHyper » me) Bamboo
+[19:10:18] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Str1XHyper » me) Blazereed
+[19:10:32] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Str1XHyper) bla
+[19:11:06] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Str1XHyper » me) stop
+[19:11:25] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Str1XHyper » me) GoldenApple
+[19:12:32] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Str1XHyper » me) stop
+[19:50:30] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Tjackisenn) 20b
+[19:50:59] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) someone just sold it for 5b
+[19:51:05] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) ?
+[19:51:49] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) 15b? <3
+[19:51:58] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Tjackisenn) okay
+[19:52:15] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) come to my is?
+[19:53:14] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Tjackisenn) accept trading request
+[19:53:20] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) how do i do that on this realm xD
+[19:53:34] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Tjackisenn) /trade accept itepastra
+[19:54:35] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » Tjackisenn) withdraw
+[19:55:19] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (Tjackisenn » me) thanks :D
+[20:10:11] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bam
+[20:10:11] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bam
+[20:10:29] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[20:10:29] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
+[20:26:10] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bam
+[20:26:10] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bam
+[20:26:57] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[20:26:57] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
+[20:27:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) cac
+[20:27:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) cac
+[20:27:18] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bla
+[20:27:18] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bla
+[20:27:28] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) app
+[20:27:28] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) app
+[20:27:36] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) sew
+[20:27:36] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) sew
+[20:27:45] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) ham
+[20:27:45] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) ham
+[20:27:57] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bub
+[20:27:57] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bub
+[20:28:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) rub
+[20:28:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) rub
+[20:28:27] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) pum
+[20:28:27] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) pum
+[20:28:35] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[20:28:35] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
+[21:05:44] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) cac
+[21:05:44] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) cac
+[21:06:12] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bla
+[21:06:12] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bla
+[21:06:46] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) egg
+[21:06:46] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) egg
+[21:06:56] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) bub
+[21:06:56] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) bub
+[21:07:28] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) foo
+[21:07:28] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) foo
+[21:07:42] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[21:07:42] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
+[21:07:56] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) net
+[21:07:56] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) net
+[21:08:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[21:08:07] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
+[21:10:12] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) ice
+[21:10:12] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) ice
+[21:13:08] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (itepastra » me) stop
+[21:13:08] [Render thread/INFO]: [CHAT] (SkyblockCompetitive) (me » itepastra) stop
 

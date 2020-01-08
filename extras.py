@@ -22,30 +22,37 @@ def filepath(
     return os.path.join(script_dir, filename)
 
 
-def update(seeds):
-    for seed in seeds:
-        values = seed["values"]
-        values.append(seed["averageworth"] * seed["amtfound"])
-        print(values)
-        mean = statistics.mean(values)
-        stdev = statistics.stdev(values)
-        seed["averageworth"] = mean
-        seed["stdev"] = stdev
+def update(seeds, index):
+    seed = seeds[index]
+    values = seed["values"]
+    amt = seed["amtfound"]
+    values.append(seed["averageworth"] * amt)
+    print(values)
+    mean = statistics.mean(values)
+    stdev = statistics.stdev(values)
+    seed["averageworth"] = mean
+    seed["stdev"] = stdev
+    seed["amtfound"] = amt + len(values)
+    seed["values"] = []
     return seeds
 
 
 def addvals(
-    seedtype: str,
-    values: list,
+    index: int,
+    value: int,
     data: List[Dict[str, Any]] = input_("seeds.json"),
-    skey: str = "nn",
     okey: str = "values",
 ):
+    data[index][okey].append(value)
+    return data
+
+
+def findseed(seedtype, data, skey):
     index = None
     for i, dic in enumerate(data):
         if dic[skey] == seedtype:
             index = i
-    data[index][okey].extend(values)
+    return index
 
 
 def texttonum(text, before="[CHAT]  + $", after=" "):

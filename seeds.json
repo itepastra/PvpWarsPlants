@@ -3,7 +3,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 1000,
-		"name": "Cactus Seed",
+		"name": "Cactus",
 		"nn": "cac",
 		"replantcost": 500,
 		"size": [
@@ -13,7 +13,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 660,
-		"values": [],
+		"values": [
+			1532
+		],
 		"wateramt": 0,
 		"watertime": null
 	},
@@ -21,7 +23,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 1250,
-		"name": "Avocado Seed",
+		"name": "Avocado",
 		"nn": "avo",
 		"replantcost": 625,
 		"size": [
@@ -39,7 +41,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 2000,
-		"name": "Sewerfruit Seed",
+		"name": "Sewerfruit",
 		"nn": "sew",
 		"replantcost": 1000,
 		"size": [
@@ -49,7 +51,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 600,
-		"values": [],
+		"values": [
+			4200
+		],
 		"wateramt": 1,
 		"watertime": 300
 	},
@@ -57,7 +61,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 2500,
-		"name": "Netherfruit Seed",
+		"name": "Netherfruit",
 		"nn": "net",
 		"replantcost": 1250,
 		"size": [
@@ -75,7 +79,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 5000,
-		"name": "Bamboo Seed",
+		"name": "Bamboo",
 		"nn": "bam",
 		"replantcost": 2500,
 		"size": [
@@ -85,7 +89,21 @@
 		],
 		"stdev": 0,
 		"totaltime": 40,
-		"values": [],
+		"values": [
+			8800,
+			10800,
+			10000,
+			10400,
+			10400,
+			10400,
+			9200,
+			8800,
+			9200,
+			10400,
+			10400,
+			11200,
+			10400
+		],
 		"wateramt": 0,
 		"watertime": null
 	},
@@ -93,7 +111,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 5000,
-		"name": "Hamburger Seed",
+		"name": "Hamburger",
 		"nn": "ham",
 		"replantcost": 2500,
 		"size": [
@@ -103,7 +121,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 360,
-		"values": [],
+		"values": [
+			6650
+		],
 		"wateramt": 5,
 		"watertime": 60
 	},
@@ -111,7 +131,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 10000,
-		"name": "Seafruit Seed",
+		"name": "Seafruit",
 		"nn": "sea",
 		"replantcost": 5000,
 		"size": [
@@ -129,7 +149,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 15000,
-		"name": "Lemon Seed",
+		"name": "Lemon",
 		"nn": "lem",
 		"replantcost": 7500,
 		"size": [
@@ -147,7 +167,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 20000,
-		"name": "Coconut Seed",
+		"name": "Coconut",
 		"nn": "coc",
 		"replantcost": 10000,
 		"size": [
@@ -165,7 +185,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 25000,
-		"name": "Pear Seed",
+		"name": "Pear",
 		"nn": "pea",
 		"replantcost": 12500,
 		"size": [
@@ -183,7 +203,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 50000,
-		"name": "Eggplant Seed",
+		"name": "Eggplant",
 		"nn": "egg",
 		"replantcost": 25000,
 		"size": [
@@ -201,7 +221,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 100000,
-		"name": "Apple Seed",
+		"name": "Apple",
 		"nn": "app",
 		"replantcost": 50000,
 		"size": [
@@ -211,7 +231,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 540,
-		"values": [],
+		"values": [
+			148000
+		],
 		"wateramt": 2,
 		"watertime": 180
 	},
@@ -219,7 +241,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 125000,
-		"name": "Beetroot Seed",
+		"name": "Beetroot",
 		"nn": "bee",
 		"replantcost": 62500,
 		"size": [
@@ -237,7 +259,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 200000,
-		"name": "Bubblegum Seed",
+		"name": "Bubblegum",
 		"nn": "bub",
 		"replantcost": 100000,
 		"size": [
@@ -247,7 +269,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 300,
-		"values": [],
+		"values": [
+			275000
+		],
 		"wateramt": 0,
 		"watertime": null
 	},
@@ -255,7 +279,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 400000,
-		"name": "Slimereed Seed",
+		"name": "Slimereed",
 		"nn": "sli",
 		"replantcost": 200000,
 		"size": [
@@ -273,7 +297,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 500000,
-		"name": "Blazereed Seed",
+		"name": "Blazereed",
 		"nn": "bla",
 		"replantcost": 250000,
 		"size": [
@@ -283,7 +307,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 600,
-		"values": [],
+		"values": [
+			820000
+		],
 		"wateramt": 0,
 		"watertime": null
 	},
@@ -291,7 +317,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 1000000,
-		"name": "Ruby Bush Seed",
+		"name": "Ruby Bush",
 		"nn": "rub",
 		"replantcost": 500000,
 		"size": [
@@ -301,7 +327,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 7200,
-		"values": [],
+		"values": [
+			2950000
+		],
 		"wateramt": 3,
 		"watertime": 1800
 	},
@@ -309,7 +337,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 2500000,
-		"name": "Cherry Seed",
+		"name": "Cherry",
 		"nn": "che",
 		"replantcost": 1250000,
 		"size": [
@@ -327,7 +355,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 5000000,
-		"name": "Taco Seed",
+		"name": "Taco",
 		"nn": "tac",
 		"replantcost": 2500000,
 		"size": [
@@ -345,7 +373,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 10000000,
-		"name": "Chocolate Seed",
+		"name": "Chocolate",
 		"nn": "cho",
 		"replantcost": 5000000,
 		"size": [
@@ -363,7 +391,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 25000000,
-		"name": "Enderbloom Seed",
+		"name": "Enderbloom",
 		"nn": "end",
 		"replantcost": 12500000,
 		"size": [
@@ -381,7 +409,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 500000000,
-		"name": "Golden Apple Seed",
+		"name": "Golden Apple",
 		"nn": "gol",
 		"replantcost": 500000000,
 		"size": [
@@ -399,7 +427,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 150000000,
-		"name": "Pumpkin Pie Seed",
+		"name": "Pumpkin Pie",
 		"nn": "pum",
 		"replantcost": 75000000,
 		"size": [
@@ -409,7 +437,9 @@
 		],
 		"stdev": 0,
 		"totaltime": 4200,
-		"values": [],
+		"values": [
+			208000000
+		],
 		"wateramt": 1,
 		"watertime": 2100
 	},
@@ -417,7 +447,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 300000000,
-		"name": "Football Seed",
+		"name": "Football",
 		"nn": "foo",
 		"replantcost": 150000000,
 		"size": [
@@ -435,7 +465,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 1000000000,
-		"name": "Turkeytrap Seed",
+		"name": "Turkeytrap",
 		"nn": "tur",
 		"replantcost": 1000000000,
 		"size": [
@@ -453,7 +483,7 @@
 		"amtfound": 0,
 		"averageworth": 1,
 		"cost": 2500000000,
-		"name": "Iceball Seed",
+		"name": "Iceball",
 		"nn": "ice",
 		"replantcost": 2500000000,
 		"size": [

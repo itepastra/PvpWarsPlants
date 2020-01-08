@@ -53,10 +53,13 @@ i = 0
 
 
 with open(extras.filepath("gegevens.txt"), "r") as gegevens:
-    zin = str(gegevens.readlines()[-2:-1][1:9])
     try:
+
+        zin = str(gegevens.readlines()[-2][1:9])
         latetime = datetime.datetime.strptime(zin, "%H:%M:%S")
     except ValueError:
+        latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
+    except IndexError:
         latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
 
 
@@ -79,7 +82,7 @@ with open(extras.filepath("log.txt"), "r") as file:
         elif line[23 + lenstr] == "+":
             temp, amt = pend(data, index)
             harvests.extend(temp)
-        elif line.partition("[CHAT] (SkyblockCompetitive)")[2]!="":
+        elif line.partition("[CHAT] (SkyblockCompetitive)")[2] != "":
             harvests.extend([line, "\n"])
 
 
