@@ -46,3 +46,16 @@ def addvals(
         if dic[skey] == seedtype:
             index = i
     data[index][okey].extend(values)
+
+
+def texttonum(text, before="[CHAT]  + $", after=" "):
+    value = text.partition(before)[2].partition(after)[0].replace(",", "")
+    if len(value) == 0:
+        numval = 0
+    elif "M" in value:
+        numval = int(float(value[0:-1]) * 1000000)
+    elif "B" in value:
+        numval = int(float(value[0:-1]) * 1000000000)
+    else:
+        numval = int(float(value))
+    return numval
