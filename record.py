@@ -11,6 +11,7 @@ lenstr = len(conststr)
 def pend(data, index):
     temp = []
     amt = 0
+    plus = True
     i = index
     while (
         data[i][11 : 27 + lenstr] == "[" + conststr + "]: [CHAT] [!] R"
@@ -18,6 +19,16 @@ def pend(data, index):
         or data[i][11 : 25 + lenstr] == "[" + conststr + "]: [CHAT] (!)"
         or data[i][11 : 26 + lenstr] == "[" + conststr + "]: [CHAT]  + $"
     ):
+        if not data[i][11 : 26 + lenstr] == "[" + conststr + "]: [CHAT]  + $":
+            plus = False
+
+        elif (
+            plus == False
+            and data[i][11 : 26 + lenstr] == "[" + conststr + "]: [CHAT]  + $"
+        ):
+            temp.append("\n")
+            plus = True
+
         temp.append(data[i])
         amt += 1
         i += 1
@@ -50,14 +61,11 @@ with open(extras.filepath("log.txt"), "r") as file:
     data = file.readlines()
 
     while early:
-        line = data[i][1:9]
-        try:
+        if data[i].startswith("["):
+            line = data[i][1:9]
             time = datetime.datetime.strptime(line, "%H:%M:%S")
-        except ValueError:
-            pass
-        print(time, latetime)
-        if time > latetime:
-            early = False
+            if time > latetime:
+                early = False
         i += 1
 
     for index, line in enumerate(data):
