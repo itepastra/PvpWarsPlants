@@ -1,6 +1,6 @@
 seedtypes = [
 	{"name":"Cactus Seed", "size":(5,9,5), "wateramt":0, "watertime":None, "totaltime": 660,"cost":1000,"replantcost":500, "averageworth":None, "amtfound":0},
-	{"name":"Avocado Seed", "size":(5,7,5), "wateramt":0, "watertime":0, "totaltime": 0,"cost":1250,"replantcost":625, "averageworth":None, "amtfound":0}, #??
+	{"name":"Avocado Seed", "size":(5,7,5), "wateramt":9, "watertime":60, "totaltime": 600,"cost":1250,"replantcost":625, "averageworth":None, "amtfound":0}, #??
 	{"name":"Sewerfruit Seed", "size":(7,8,7), "wateramt":1, "watertime":300, "totaltime": 600,"cost":2000,"replantcost":1000, "averageworth":None, "amtfound":0},
 	{"name":"Netherfruit Seed", "size":(7,7,7), "wateramt":0, "watertime":0, "totaltime": 0,"cost":2500,"replantcost":1250, "averageworth":None, "amtfound":0}, #??
 	{"name":"Bamboo Seed", "size":(5,7,5), "wateramt":0, "watertime":None, "totaltime": 40,"cost":5000,"replantcost":2500, "averageworth":None, "amtfound":0},

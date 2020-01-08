@@ -47,11 +47,11 @@ i = 0
 
 
 with open(filepath("gegevens.txt"), "r") as gegevens:
-    zin = gegevens.readlines()[-2][1:9]
+    zin = str(gegevens.readlines()[-2:-1][1:9])
     try:
         latetime = datetime.datetime.strptime(zin, "%H:%M:%S")
     except ValueError:
-        pass
+        latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
 
 
 with open(filepath("log.txt"), "r") as file:
