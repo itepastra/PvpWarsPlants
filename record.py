@@ -2,18 +2,10 @@ import datetime
 import shutil
 import time
 import os
-import data
+import extras
 
 conststr = "Render thread/INFO"
 lenstr = len(conststr)
-
-
-def filepath(
-    filename
-):  # deze functie geeft het path van het bestand zelf terug hoe je het ook
-    # uitvoert, zodat het programma het bestand goed kan vinden
-    script_dir = os.path.dirname(__file__)
-    return os.path.join(script_dir, filename)
 
 
 def pend(data, index):
@@ -39,14 +31,14 @@ savelines = 0
 amt = 0
 shutil.copyfile(
     "D:/losse spellen/MultiMC/instances/Vanilla/.minecraft/logs/latest.log",
-    filepath("log.txt"),
+    extras.filepath("log.txt"),
 )
 early = True
 n = 0
 i = 0
 
 
-with open(filepath("gegevens.txt"), "r") as gegevens:
+with open(extras.filepath("gegevens.txt"), "r") as gegevens:
     zin = str(gegevens.readlines()[-2:-1][1:9])
     try:
         latetime = datetime.datetime.strptime(zin, "%H:%M:%S")
@@ -54,7 +46,7 @@ with open(filepath("gegevens.txt"), "r") as gegevens:
         latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
 
 
-with open(filepath("log.txt"), "r") as file:
+with open(extras.filepath("log.txt"), "r") as file:
     data = file.readlines()
 
     while early:
@@ -78,6 +70,6 @@ with open(filepath("log.txt"), "r") as file:
             harvests.extend(temp)
 
 
-with open(filepath("gegevens.txt"), "a") as save:
+with open(extras.filepath("gegevens.txt"), "a") as save:
     print("klaar")
     save.write("".join(harvests))
