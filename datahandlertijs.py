@@ -8,6 +8,7 @@ conststr = "(SkyblockCompetitive) (me » itepastra) "
 newblock = 0
 vals = []
 hpet = []
+# hoi
 
 with open(extras.filepath("gegevens.txt"), "r") as file:
     data = file.readlines()
