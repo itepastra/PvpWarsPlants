@@ -3,5 +3,9 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"python.formatting.provider": "black"
+	}
 }
