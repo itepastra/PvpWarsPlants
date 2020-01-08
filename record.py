@@ -79,6 +79,8 @@ with open(extras.filepath("log.txt"), "r") as file:
         elif line[23 + lenstr] == "+":
             temp, amt = pend(data, index)
             harvests.extend(temp)
+        elif line.partition("[CHAT] (SkyblockCompetitive)"[2]!=""):
+            harvests.extend([line, "\n"])
 
 
 with open(extras.filepath("gegevens.txt"), "a") as save:
