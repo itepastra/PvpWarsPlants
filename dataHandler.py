@@ -9,6 +9,8 @@ constPlants = {
     'Avocado',
     'Sewerfruit',
     'Netherfruit',
+    'Bamboo',
+    'Hamburger',
     'Seafruit',
     'Lemon',
     'Coconut',
@@ -35,6 +37,7 @@ Cactus = []
 Avocado = []
 Sewerfruit = []
 Netherfruit = []
+Bamboo = []
 Seafruit = []
 Lemon = []
 Coconut = []
@@ -61,6 +64,7 @@ def filepath(filename):  # deze functie geeft het path van het bestand zelf teru
     return os.path.join(script_dir, filename)
 
 def AddMoneyToSeedArray(Seed, Money):
+    print(Seed, ', ', Money)
     if Seed == "Cactus":
         Cactus.append(Money)
     elif Seed == "Avocado":
@@ -69,6 +73,8 @@ def AddMoneyToSeedArray(Seed, Money):
         Sewerfruit.append(Money)
     elif Seed == "Netherfruit":
         Netherfruit.append(Money)
+    elif Seed == "Bamboo":
+        Bamboo.append(Money)
     elif Seed == "Seafruit":
         Seafruit.append(Money)
     elif Seed == "Lemon":
@@ -116,9 +122,11 @@ with open(filepath('gegevens.txt'), "r") as file:
     for line in data:
         if line != "\n":
             splitLine = line.split(" ")
+            print(splitLine)
             if(splitLine[3].startswith("(Sky")):
                 for Seed in constPlants:
                     if splitLine[7].replace("\n", "").lower() == Seed.lower():
+                        print(Seed)
                         harvestedSeed = Seed
                         print(Seed + " has been started to be harvested")
                     elif splitLine[7].replace("\n", "").lower() == "stop":
@@ -134,3 +142,5 @@ with open(filepath('gegevens.txt'), "r") as file:
                     AddMoneyToSeedArray(harvestedSeed, int(float(noDollar.replace(",", ""))))
 print(Apple)
 print(IceBall)
+print(Blazereed)
+print(Bamboo)
