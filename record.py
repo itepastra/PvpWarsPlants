@@ -6,6 +6,7 @@ import extras
 
 conststr = "Render thread/INFO"
 lenstr = len(conststr)
+docopy = True
 
 
 def pend(data, index):
@@ -40,10 +41,12 @@ def pend(data, index):
 harvests = []
 savelines = 0
 amt = 0
-shutil.copyfile(
-    "D:/losse spellen/MultiMC/instances/Vanilla/.minecraft/logs/latest.log",
-    extras.filepath("log.txt"),
-)
+
+if docopy == True:
+    shutil.copyfile(
+        "D:/losse spellen/MultiMC/instances/Vanilla/.minecraft/logs/latest.log",
+        extras.filepath("log.txt"),
+    )
 early = True
 n = 0
 i = 0
