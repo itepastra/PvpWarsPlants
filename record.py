@@ -4,7 +4,7 @@ import time
 import os
 import extras
 
-conststr = "Render thread/INFO"
+conststr = "main/INFO"
 lenstr = len(conststr)
 docopy = True
 
@@ -44,7 +44,7 @@ amt = 0
 
 if docopy == True:
     shutil.copyfile(
-        "D:/losse spellen/MultiMC/instances/Vanilla/.minecraft/logs/latest.log",
+        r"C:\Users\Tijn\AppData\Roaming\.minecraft\logs\latest.log",
         extras.filepath("log.txt"),
     )
 early = True
@@ -79,7 +79,7 @@ with open(extras.filepath("log.txt"), "r") as file:
         elif line[23 + lenstr] == "+":
             temp, amt = pend(data, index)
             harvests.extend(temp)
-        elif line.partition("[CHAT] (SkyblockCompetitive)"[2]!=""):
+        elif line.partition("[CHAT] (SkyblockCompetitive)")[2] != "":
             harvests.extend([line, "\n"])
 
 

@@ -122,7 +122,6 @@ with open(filepath('gegevens.txt'), "r") as file:
     for line in data:
         if line != "\n":
             splitLine = line.split(" ")
-            print(splitLine)
             if(splitLine[3].startswith("(Sky")):
                 for Seed in constPlants:
                     if splitLine[7].replace("\n", "").lower() == Seed.lower():
@@ -140,7 +139,4 @@ with open(filepath('gegevens.txt'), "r") as file:
                     AddMoneyToSeedArray(harvestedSeed, int(float(noDollar.split("M")[0]) * 1000000))
                 else:
                     AddMoneyToSeedArray(harvestedSeed, int(float(noDollar.replace(",", ""))))
-print(Apple)
-print(IceBall)
-print(Blazereed)
-print(Bamboo)
+
