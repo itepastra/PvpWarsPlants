@@ -10,7 +10,7 @@ docopy = True
 
 
 def pend(data, index):
-    temp = []
+    temp = ["\n"]
     amt = 0
     plus = True
     i = index
@@ -33,8 +33,8 @@ def pend(data, index):
         temp.append(data[i])
         amt += 1
         i += 1
-    if i != index:
-        temp.append("\n")
+    if i == index:
+        temp = []
     return temp, amt
 
 
@@ -53,14 +53,9 @@ i = 0
 
 
 with open(extras.filepath("gegevens.txt"), "r") as gegevens:
-    try:
-
-        zin = str(gegevens.readlines()[-2][1:9])
-        latetime = datetime.datetime.strptime(zin, "%H:%M:%S")
-    except ValueError:
-        latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
-    except IndexError:
-        latetime = datetime.datetime.strptime("00:00:00", "%H:%M:%S")
+    timestr = gegevens.readline()
+    latetime = datetime.datetime.fromisoformat(timestr)
+    today = datetime.datetime.today()
 
 
 with open(extras.filepath("log.txt"), "r") as file:
@@ -69,7 +64,9 @@ with open(extras.filepath("log.txt"), "r") as file:
     while early:
         if data[i].startswith("["):
             line = data[i][1:9]
-            time = datetime.datetime.strptime(line, "%H:%M:%S")
+            time = datetime.datetime.strptime(line, "%H:%M:%S").replace(
+                year=today.year(), month=today.month(), day=today.day()
+            )
             if time > latetime:
                 early = False
         i += 1
@@ -83,9 +80,10 @@ with open(extras.filepath("log.txt"), "r") as file:
             temp, amt = pend(data, index)
             harvests.extend(temp)
         elif line.partition("[CHAT] (SkyblockCompetitive)")[2] != "":
-            harvests.extend([line, "\n"])
+            harvests.extend(["\n", line])
 
 
 with open(extras.filepath("gegevens.txt"), "a") as save:
     print("klaar")
+    save.write(datetime.datetime.isoformat(datetime.datetime.now()))
     save.write("".join(harvests))

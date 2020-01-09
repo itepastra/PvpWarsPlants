@@ -32,7 +32,8 @@ with open(extras.filepath("gegevens.txt"), "r") as file:
                 seedtype = None
         else:
             value = extras.texttonum(line)
-            dellines.append(index)
+            if index != 0:
+                dellines.append(index)
             if newblock == 0 and seedtype is not None:
                 print(seedtype, index, value)
                 seeds = extras.addvals(seedtype, value)
